@@ -89,3 +89,8 @@ Suitable for a BTech AIML mini/final-year project demonstration.
 ## License
 
 MIT
+
+## Author
+Mayank
+
+B.tech Ai/Ml
